@@ -3,10 +3,10 @@ remove lookbehind, receivedAt index
 get rid of "too many tags in filter" error
 
 1.0 release
-  split plugins for relay/stream
   test negentropy queries stored in events
   more config params in negentropy
     ? limit for total number of events, not just per filter
+  ? default since limit for sync
 
 features
   in sync/stream, log bytes up/down and compression ratios
